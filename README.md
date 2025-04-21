@@ -7,21 +7,5 @@ pip install request
 
 Run the code
 ```
-pkg update && pkg upgrade
-pkg install git python clang
+wget https://raw.githubusercontent.com/mine-smp/filter-rubika/main/mine.py -O mine.py && python mine.py
 ```
-github 
-```
-git clone https://github.com/mine-smp/filter-rubika
-```
-
-cd
-
-```
-cd filter-rubika
-```
-
-run 
-
-```
-python main.py
